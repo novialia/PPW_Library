@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans');
+
+* {
+	font-family: 'Open Sans', sans-serif;
+}
+
+body {
+	margin: 20px;
+}
+
+.table-borderless tbody tr td{
+	border: 0;
+} 
+
+.book-table {
+	width: 220px;
+}
+
+.img-table {
+	width: 170px;
+}
+
+button {
+	margin: 2px;
+	display: inline-block;
+}
+
+input {
+	margin: 2px;
+}
+
+form {
+	display: inline;
+}
+
+.book-title {
+	font-family: 'Bitter', sans-serif;
+}
